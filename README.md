@@ -2,6 +2,8 @@
 
 I like building things, learning along the way, and experimenting with AI.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpizarro96/)
+
 ## Things I work with
 
 - **Languages:** JavaScript, Elixir, Python
