@@ -1,4 +1,4 @@
-# Hi, I'm Matias 👋
+# Hi, I'm Matías 👋
 
 I like building things, learning along the way, and experimenting with AI.
 
