@@ -1,3 +1,10 @@
+<div align="center">
+
+<!-- Main Hero Banner -->
+<img src="home-banner.png" alt="Matías and his passions banner" width="100%" />
+
+<br/><br/>
+
 # Hi, I'm Matías 👋
 
 I like building things, learning along the way, and experimenting with AI.
